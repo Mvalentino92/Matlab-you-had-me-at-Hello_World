@@ -1,4 +1,5 @@
 clear all
+%hey im changing this right here
 clc
 %First I'm setting how many disks I want to slice the object into
 N = 100000;
