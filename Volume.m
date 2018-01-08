@@ -1,6 +1,4 @@
 clear all
-%Doing it again just to see if it works braj
-%hey im changing this right here
 clc
 %First I'm setting how many disks I want to slice the object into
 N = 100000;
